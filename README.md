@@ -3,6 +3,7 @@
 <center>
 This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC. 
 </center>
+
 # [SuperNewRoles](https://github.com/SuperNewRoles/SuperNewRoles)
 # 導入方法
  - [導入方法](https://github.com/ykundesu/SuperNewRoles/wiki/%E5%B0%8E%E5%85%A5%E6%96%B9%E6%B3%95)
