@@ -1,4 +1,4 @@
-# SuperNewRoles！
+# [SuperNewRoles！](https://github.com/SuperNewRoles/SuperNewRoles)
 
 ![SNRImage](https://github.com/SuperNewRoles/SuperNewRoles/blob/master/images/SNRImage.png)
 <center>
